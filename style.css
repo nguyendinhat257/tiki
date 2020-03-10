@@ -140,11 +140,11 @@ header > div > ul > li:nth-child(2n + 1) > div > div > ul > li:nth-child(2) {
 }
 header > div > ul > li:nth-child(2n +1) > div > div > ul > li:nth-child(3) {
 	position: absolute;
-	left: 550px;
+	left: 620px;
 }
 header > div > ul > li:nth-child(2n +1) > div > div > ul > li:nth-child(4) {
 	position: absolute;
-	left: 850px;
+	left: 880x;
 }
 /** =====================================================*/ 
 header > div > ul > li:nth-child(2n) > div > div > ul,  {
@@ -162,9 +162,9 @@ header > div > ul > li:nth-child(2n) > div > div > ul > li:nth-child(2) {
 }
 header > div > ul > li:nth-child(2n) > div > div > ul > li:nth-child(3) {
 	position: absolute;
-	left: 550px;
+	left: 620px;
 }
 header > div > ul > li:nth-child(2n) > div > div > ul > li:nth-child(4) {
 	position: absolute;
-	left: 850px;
+	left: 880px;
 }
